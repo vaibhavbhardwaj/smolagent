@@ -1,3 +1,5 @@
 .env
 *.sqlite
 *.bin
+*.pkl
+index.faiss
